@@ -13,7 +13,7 @@
 }
 @media screen and (min-width: 992px) {
     .content{
-        max-width: 992px;
+        max-width: 1200px;
         height: auto;
         margin: 1rem;
         border-radius: 1rem;
